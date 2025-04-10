@@ -6,7 +6,8 @@
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node index.js",
-    "install": "npm install"
+    "install": "npm install",
+    "build": "npm install"  // 여기서 npm install을 명시적으로 실행
   },
   "keywords": [],
   "author": "",
